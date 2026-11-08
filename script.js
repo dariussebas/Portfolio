@@ -50,7 +50,7 @@ const LINKS = {
    only shows what is complete. Switch to false before sending it to recruiters
    if you haven't filled everything in yet. */
 const SETTINGS = {
-  showPlaceholders: true
+  showPlaceholders: false
 };
 
 
