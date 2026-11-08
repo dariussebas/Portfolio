@@ -25,9 +25,9 @@ const LINKS = {
   email: "darius2007@hotmail.co.uk",
 
   // Individual certificate links (your Credly badge pages)
-  certSecurityPlus: "",
-  certIsc2CC: "",
-  certIso27001LA: "",
+  certSecurityPlus: "https://www.credly.com/badges/549d30ef-48c6-4667-bdaa-80679ae22932",
+  certIsc2CC: "https://www.credly.com/badges/9632bfaa-26de-4984-939b-828ee37e12f4",
+  certIso27001LA: "https://www.credly.com/badges/44b593e8-1ffb-4103-a3aa-9b98acd3399e",
 
   // TryHackMe write-ups (Practical learning section)
   thmWriteup1: "",
