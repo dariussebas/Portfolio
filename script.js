@@ -20,7 +20,7 @@ const LINKS = {
   // Main profiles
   github: "https://github.com/dariussebas",
   linkedin: "https://www.linkedin.com/in/darius-s-ba-hons",
-  tryhackme: "",
+  tryhackme: "https://tryhackme.com/p/UhOh?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=2c566e8a9949&utm_source=copy",
   credly: "https://www.credly.com/users/darius-sebastian/badges/credly",
   email: "darius2007@hotmail.co.uk",
 
