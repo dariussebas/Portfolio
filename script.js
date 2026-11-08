@@ -22,7 +22,7 @@ const LINKS = {
   linkedin: "https://www.linkedin.com/in/darius-s-ba-hons",
   tryhackme: "",
   credly: "",
-  email: "",
+  email: "darius2007@hotmail.co.uk",
 
   // Individual certificate links (your Credly badge pages)
   certSecurityPlus: "",
