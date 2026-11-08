@@ -34,7 +34,7 @@ const LINKS = {
   thmWriteup2: "",
 
   // Achievements and community
-  csamVideos: "",
+  csamVideos: "https://www.youtube.com/playlist?list=PLLPNyeGwyDgLbtbsYZ_7i-LXpukg4NhpW",
   itEvolve: "https://itnation.connectwise.com/evolve",
   itEvolveScreenshots: "",
   itEvolveMaterials: "",
