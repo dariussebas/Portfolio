@@ -21,7 +21,7 @@ const LINKS = {
   github: "https://github.com/dariussebas",
   linkedin: "https://www.linkedin.com/in/darius-s-ba-hons",
   tryhackme: "",
-  credly: "https://credly.com/users/darius-sebastian/badges/credly",
+  credly: "",
   email: "darius2007@hotmail.co.uk",
 
   // Individual certificate links (your Credly badge pages)
