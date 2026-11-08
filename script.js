@@ -18,7 +18,7 @@
    For email, just type the address: email: "you@example.com" */
 const LINKS = {
   // Main profiles
-  github: "",
+  github: "https://github.com/dariussebas",
   linkedin: "https://www.linkedin.com/in/darius-s-ba-hons",
   tryhackme: "",
   credly: "",
