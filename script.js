@@ -85,7 +85,7 @@ const PROJECTS = [
 
     objective: "Analyse a simulated phishing email, identify its indicators of compromise and document the investigation clearly enough that someone else could follow the evidence and reach the same conclusion.",
 
-    tools: ["Email header analysis", "MXToolbox", "VirusTotal", "EasyDMARC", "URL and domain analysis"],
+    tools: ["MXToolbox", "VirusTotal", "EasyDMARC", "Mimecast"],
 
     actions: [
       "Analysed the email headers to trace where the message really came from",
